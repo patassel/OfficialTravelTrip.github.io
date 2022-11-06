@@ -1,6 +1,7 @@
 {
   "name": "template_travel_app",
   "short_name": "template_travel_app",
+  "homepage" : "https://patassel.github.io/OfficialTravelTrip.github.io/",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#hexcode",
