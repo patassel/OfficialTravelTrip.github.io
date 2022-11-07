@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5af9a88dba8f8c58c4283f65053211f6",
+  "assets/AssetManifest.json": "2c82a35cb9d289f500a6be7f9e87bd2b",
 "assets/assets/font/Merienda-Regular.ttf": "37794e74f8aea133479ab6b268e4467d",
 "assets/assets/font/OoohBaby-Regular.ttf": "2d3cee10b218b6f30adb6738acfd48aa",
 "assets/assets/footer/footer.jpg": "854cdc86388660a0685de02e479d302b",
@@ -20,6 +20,7 @@ const RESOURCES = {
 "assets/assets/image/pioupiou2.jpg": "a04cab872c7735ec7890192baed915d3",
 "assets/assets/image/sundown2.jpg": "1f7b6164718cc327c10fe1b33c97e6c4",
 "assets/assets/image/sundownnight.jpg": "b859cc3bb7659b5ef695b0c6336c3c77",
+"assets/assets/image/travelAirline.jpg": "2ce18721d29567ff3605e2dc51e1bc80",
 "assets/assets/logo/travellogo.jpg": "8203bec818d65006b0c509af573d0bf4",
 "assets/assets/logo/travelplaya.jpg": "8ef53e63d4003c9e1371ebc726f912cb",
 "assets/FontManifest.json": "f70d5dad0a11d3b6c7f52afff01b1579",
@@ -37,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "ec292b99e8aa1c865c1480041dfa9639",
 "icons/Icon-maskable-192.png": "f7cb350e5a57a7fdfb310e907d0450ff",
 "icons/Icon-maskable-512.png": "ec292b99e8aa1c865c1480041dfa9639",
-"index.html": "ebf7d849ac556e33bcc0f57faf792db5",
-"/": "ebf7d849ac556e33bcc0f57faf792db5",
-"main.dart.js": "f2cb1e5170b3d9bded4f006632ef5d16",
+"index.html": "3d18ff6c62786c96181495925e093f70",
+"/": "3d18ff6c62786c96181495925e093f70",
+"main.dart.js": "5622a279b2a9e4d583ee1f898d71b620",
 "manifest.json": "0fc6af932db0b615eaecef77e9022e33",
 "version.json": "7ed757daf29d7dfcb976026ecec2d3ad"
 };
